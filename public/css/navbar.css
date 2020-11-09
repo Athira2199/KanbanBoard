@@ -1,0 +1,12 @@
+#line1{
+    animation: line-length 2s linear infinite;
+}
+
+@keyframes line-length{
+    0%{
+        transform : translate(-108.21711 -178.25098);
+    }
+    100%{
+        transform : translate(-108.21711 -190.25098);
+    }
+}

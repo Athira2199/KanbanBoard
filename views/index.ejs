@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>User Name</title>
+        <%- include('./partials/head.ejs') %>
+        <style>
+        .line{
+            animation: line-length 3s ease-in-out infinite;
+        }
+        #hand-boy,#hand-note-boy{
+            animation:  rotate 3s ease-in-out infinite;
+        }
+        @keyframes line-length{
+            0%{
+                transform : translate(-90.21711px,-178.25098px);
+                opacity: 0.1;
+            }
+            50%{
+                transform : translate(-100.21711px,-178.25098px);
+                opacity: 0.5;
+            }
+            100%{
+                transform : translate(-90.21711px,-178.25098px);
+                opacity: 1;
+            }
+        }
+        @keyframes rotate{
+            0%{
+                transform : translate(-90.21711px,-178.25098px);
+            }
+            50%{
+                transform : translate(-100.21711px,-198.25098px);
+            }
+            100%{
+                transform : translate(-90.21711px,-218.25098px);
+            }
+        }
+        </style>
+        <body>
+            <%- include('./partials/kanban-svg.ejs')%>
+            <%- include('./partials/footer.ejs') %>
+        </body>
+</html>
