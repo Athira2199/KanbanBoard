@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Athira2199/KanbanBoard.git"
+    "url": "git+https://github.com/Athira2199/PersonalKanbanBoard.git"
   },
   "keywords": [
     "nodejs",
@@ -18,9 +18,9 @@
   "author": "Athira V Ajit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Athira2199/KanbanBoard/issues"
+    "url": "https://github.com/Athira2199/PersonalKanbanBoard/issues"
   },
-  "homepage": "https://github.com/Athira2199/KanbanBoard#readme",
+  "homepage": "https://github.com/Athira2199/PersonalKanbanBoard#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
