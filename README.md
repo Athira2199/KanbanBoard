@@ -1,9 +1,11 @@
 <h1 align="center">Personal Kanban Board</h1>
 
 
+<span align="center">
+  
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen) [![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://opensource.org/licenses/ISC) ![Version](https://img.shields.io/badge/version-v1.0.0-orange)
 
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen) ![GitHub license](https://img.shields.io/badge/license-ISC-blue) ![Version](https://img.shields.io/badge/version-v1.0.0-orange)
-
+</span>
 
 
 
