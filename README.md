@@ -1,11 +1,11 @@
 <h1 align="center">Personal Kanban Board</h1>
 
 
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
-![GitHub license](https://img.shields.io/badge/license-ISC-blue)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen) ![GitHub license](https://img.shields.io/badge/license-ISC-blue) ![Version](https://img.shields.io/badge/version-v1.0.0-orange)
 
-![Version](https://img.shields.io/badge/version-v1.0.0-orange)
+
+
 
 ### What is kanban ?
 
