@@ -32,3 +32,7 @@ These are the first two rules of kanban. Want to read more rules.<br>
 [Kanban Definition](https://kanbanzone.com/resources/kanban/)
 <br>
 [Personal Kanban](https://kanbanzone.com/resources/kanban/personal-kanban/)
+<br>
+[Picture Courtesy](https://undraw.co/)
+<br>
+[Edit Courtsey](https://www.figma.com/)
