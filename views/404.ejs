@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>User Name</title>
+        <%- include('./partials/head.ejs') %>
+        <style>
+            #main-content{
+                background-image: url('/images/404.png');
+                background-size:contain;
+                height: 90%;
+                background-position: center;
+                background-repeat: no-repeat;
+                overflow: hidden;
+                overflow-wrap: normal;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="main-content">
+            <%- include('./partials/navbar.ejs')%>
+            <%- include('./partials/footer.ejs') %>
+        </div>
+    </body>
+</html>

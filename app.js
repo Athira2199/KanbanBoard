@@ -10,4 +10,8 @@ app.use(express.static(path.join(__dirname,'public')))
 app.use('/',require('./routes/index.js'))
 app.use('/dashboard',require('./routes/dashboard'))
 
+app.use('*',(req,res)=>{
+    res.render('404')
+})
+
 app.listen(PORT,console.log(`listening to port ${PORT}`))
