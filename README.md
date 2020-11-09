@@ -2,7 +2,7 @@
 
 
 <span align="center">
-  
+
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen) [![GitHub license](https://img.shields.io/badge/license-ISC-blue)](https://opensource.org/licenses/ISC) ![Version](https://img.shields.io/badge/version-v1.0.0-orange)
 
 </span>
@@ -45,3 +45,5 @@ These are the first two rules of kanban. Want to read more rules.<br>
 [Picture Courtesy](https://undraw.co/)
 <br>
 [Edit Courtsey](https://www.figma.com/)
+<br>
+[Bootstrap Snippets](https://bootsnipp.com/snippets/)
