@@ -1,6 +1,6 @@
-<h1 style="text-align:center;color:#6C63FF;">Personal <span style="color:#FF6363;">Kanban</span> Board</h1>
+# Personal Kanban Board
 
-<h3 style="color:#6C63FF;"> What is kanban ? </h3>
+### What is kanban ? [#6C63FF]
 
 > Kanban is the Japanese word for “card”. In Toyota, assembly line workers used cards to communicate when they needed something from another department or process. This helped them reduce waste and increase their process efficiency. Kanban provides a visual for both the workflow and the actual work that goes through the workflow. Ever since its creation, it has helped organizations identify potential issues and bottlenecks in the workflow, allowing them to resolve the issue and let work flow efficiently at an optimal pace or throughput.
 
